@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifmehmood16&label=Profile%20views&color=0e75b6&style=flat" alt="arifmehmood16" /> </p>
 
-- 🔭 I’m currently working on [Fintech Project](https://pie-int.com/)
+- 🔭 I’m currently working at [Active Quote](https://www.activequote.com/) as Data Science Intern
 
 - 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **Java, Springboot, ReactJs, TDD and CICD!**
+- 💬 Ask me about **Java, Springboot, Spring Cloud, ReactJs, Data Science!**
 
 - 📫 How to reach me **arifmehmood9516@gmail.com**
 
