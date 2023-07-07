@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arif</h1>
-<h3 align="center">A passionate Software Engineer (Java - Springboot - ReactJs). Stepping towards helping and contributing to open source community.</h3>
+<h3 align="center">A passionate Software Engineer (Java - Spring Cloud - ReactJs) and Data Scientist. Stepping towards helping and contributing to the open source community.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifmehmood16&label=Profile%20views&color=0e75b6&style=flat" alt="arifmehmood16" /> </p>
 
