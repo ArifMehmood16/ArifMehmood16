@@ -15,6 +15,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/aarif9516/](https://www.linkedin.com/in/aarif9516/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Arif Mehmood: The Aspiring Data Scientist and Software Engineer](https://medium.com/@arifmehmood9516/introducing-arif-mehmood-the-aspiring-data-scientist-and-software-engineer-688476c8ea2d?source=rss-4030750749a2------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
