@@ -44,11 +44,6 @@
 
 
 
-<!-- <h3 align="left">Blog Posts:</h3> -->
-<!-- BLOG-POST-LIST:START -->
-- [Introducing Arif Mehmood: The Aspiring Data Scientist and Software Engineer](https://medium.com/@arifmehmood9516/introducing-arif-mehmood-the-aspiring-data-scientist-and-software-engineer-688476c8ea2d?source=rss-4030750749a2------2)
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/arifmehmood9516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arifmehmood9516" height="30" width="40" /></a>
