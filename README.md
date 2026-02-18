@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Arif</h1>
-<h3 align="center">A passionate Software Engineer (AWS - Java - Spring Cloud - ReactJs) and Data Scientist. Stepping towards helping and contributing to the open source community.</h3>
+<h3 align="center">AI Software Engineer and Data Scientist (AWS - Python - Java - Spring Cloud - ReactJs). Building practical AI solutions and contributing to the open source community.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifmehmood16&label=Profile%20views&color=0e75b6&style=flat" alt="arifmehmood16" /> </p>
 <p align="left"> <a href="https://twitter.com/arifmehmood9516" target="blank"><img src="https://img.shields.io/twitter/follow/arifmehmood9516?logo=twitter&style=for-the-badge" alt="arifmehmood9516" /></a> </p>
 
-- 🔭 I’m currently working at [Cardiff University](https://profiles.cardiff.ac.uk/staff/mehmooda3) as Software Engineer
+- 🔭 I’m currently working on a KTP project with **Aston University x BioCare Ltd** as an **AI Software Engineer**
 
-- 🌱 I’m currently learning **Cyber Security Research** to start a PhD
+- 🌱 I’m currently learning and applying **AI Software Engineering, Machine Learning, MLOps, and Data Science**
 
-- 💬 Ask me about **Java, Springboot, Spring Cloud, ReactJs, Data Science, AWS**
+- 💬 Ask me about **AI Software Engineering, Data Science, Machine Learning, Python, SQL, Java, Spring Boot, ReactJs, AWS, and MLOps**
 
-- 📫 How to reach me **arifmehmood9516@gmail.com**
+- 📫 Work email **a.mehmood7@aston.ac.uk**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/aarif9516/](https://www.linkedin.com/in/aarif9516/)
 
