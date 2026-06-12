@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a KTP project with **Aston University x BioCare Ltd** as an **AI Software Engineer**
 
-- 🌱 I’m currently learning and applying **AI Software Engineering, Machine Learning, MLOps, and Data Science**
+- 🌱 I’m currently applying **AI Software Engineering, Machine Learning, MLOps, and Data Science**
 
 - 💬 Ask me about **AI Software Engineering, Data Science, Machine Learning, Python, SQL, Java, Spring Boot, ReactJs, AWS, and MLOps**
 
