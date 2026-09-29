@@ -1,14 +1,35 @@
-name: Latest blog post workflow
+name: Update latest Medium posts
+
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: medium-posts
+  cancel-in-progress: false
+
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  update-readme:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Check out repository
+        uses: actions/checkout@v7
+
+      - name: Fetch latest Medium posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: 'https://medium.com/feed/@arifmehmood9516'
+          feed_list: "https://medium.com/feed/@arifmehmood9516"
+          readme_path: "./README.md"
+          max_post_count: "5"
+          template: '<p><a href="$url"><strong>$title</strong></a><br /><sub>$date</sub></p>$newline'
+          date_format: "UTC:d mmm yyyy"
+          tag_post_pre_newline: "true"
+          retry_count: "3"
+          retry_wait_time: "10"
+          commit_message: "docs: refresh latest Medium posts"
