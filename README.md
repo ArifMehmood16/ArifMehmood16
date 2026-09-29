@@ -70,6 +70,27 @@
   </li>
 </ul>
 
+<h2>✍️ Latest Medium Posts</h2>
+
+<p>
+  Writing about practical AI, software engineering, data science,
+  and lessons from building applications.
+</p>
+
+<!-- BLOG-POST-LIST:START -->
+<p>
+  <a href="https://medium.com/@arifmehmood9516">
+    Read my latest articles on Medium →
+  </a>
+</p>
+<!-- BLOG-POST-LIST:END -->
+
+<p>
+  <a href="https://medium.com/@arifmehmood9516">
+    <strong>Browse all articles →</strong>
+  </a>
+</p>
+
 <h2>🚀 Live Demos</h2>
 
 <h3>🧩 StockFlow — Distributed Systems Simulator</h3>
@@ -193,27 +214,6 @@
 <p>
   <a href="https://github.com/CardiffUniCOMSC/SecMoF">
     <strong>Explore the repository →</strong>
-  </a>
-</p>
-
-<h2>✍️ Latest Medium Posts</h2>
-
-<p>
-  Writing about practical AI, software engineering, data science,
-  and lessons from building applications.
-</p>
-
-<!-- BLOG-POST-LIST:START -->
-<p>
-  <a href="https://medium.com/@arifmehmood9516">
-    Read my latest articles on Medium →
-  </a>
-</p>
-<!-- BLOG-POST-LIST:END -->
-
-<p>
-  <a href="https://medium.com/@arifmehmood9516">
-    <strong>Browse all articles →</strong>
   </a>
 </p>
 
