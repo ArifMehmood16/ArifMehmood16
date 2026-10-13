@@ -62,7 +62,7 @@
   </li>
   <li>
     📫 Work email:
-    <a href="mailto:a.mehmood@biocare.co.uk">a.mehmood7@biocare.co.uk</a>
+    <a href="mailto:a.mehmood@biocare.co.uk">a.mehmood@biocare.co.uk</a>
   </li>
   <li>
     📄 Experience and professional background:
