@@ -267,5 +267,5 @@
   &nbsp;·&nbsp;
   <a href="https://leetcode.com/arifmehmood9516/">LeetCode</a>
   &nbsp;·&nbsp;
-  <a href="mailto:a.mehmood7@aston.ac.uk">Email</a>
+  <a href="mailto:arifmehmood9516@gmail.com">Email</a>
 </p>
