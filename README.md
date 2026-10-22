@@ -190,7 +190,7 @@
 </ul>
 
 <p>
-  <a href="https://sevres.co.uk/">
+  <a href="https://telyn.wales/projects/sevres">
     <strong>Explore SevRes →</strong>
   </a>
 </p>
