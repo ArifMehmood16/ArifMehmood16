@@ -15,7 +15,7 @@
   <a href="https://medium.com/@arifmehmood9516">
     <img src="https://img.shields.io/badge/Medium-Read%20my%20blog-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Read my Medium blog" />
   </a>
-  <a href="mailto:arifmehmood9516@gmail.com">
+  <a href="mailto:arif.work101@gmail.com">
     <img src="https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Arif" />
   </a>
 </p>
@@ -267,5 +267,5 @@
   &nbsp;·&nbsp;
   <a href="https://leetcode.com/arifmehmood9516/">LeetCode</a>
   &nbsp;·&nbsp;
-  <a href="mailto:arifmehmood9516@gmail.com">Email</a>
+  <a href="mailto:arif.work101@gmail.com">Email</a>
 </p>
